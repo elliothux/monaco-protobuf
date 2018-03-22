@@ -8,10 +8,13 @@ Supporting Protobuf language for monaco-editor
 ```javascript
 import registerProtobufLanguage from 'monaco-proto';
 
-
 registerProtobufLanguage(monaco);
+
 monaco.editor.create(document.getElementById("container"), {
 	language: "protobuf",
 	theme: "protobuf"
 });
 ```
+
+## Preview
+![Preview](preview.png)
