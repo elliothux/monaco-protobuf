@@ -1,0 +1,8 @@
+{
+  "name": "monaco-proto-lint",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/HuQingyang/monaco-proto-lint",
+  "author": "胡青杨 <i@do.codes>",
+  "license": "MIT"
+}
