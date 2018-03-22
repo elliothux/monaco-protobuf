@@ -6,10 +6,13 @@ Supporting Protobuf language for monaco-editor
 
 ## Usage
 ```javascript
-import registerProtobufLanguage from 'monaco-proto';
+import registerProtobuf from 'monaco-proto';
 
-registerProtobufLanguage(monaco);
 
+// Register protobuf language
+registerProtobuf(monaco);
+
+// Create protobuf editor
 monaco.editor.create(document.getElementById("container"), {
 	language: "protobuf",
 	theme: "protobuf"
