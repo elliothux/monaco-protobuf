@@ -20,4 +20,4 @@ monaco.editor.create(document.getElementById("container"), {
 ```
 
 ## Preview
-![Preview](preview.png)
+![](preview.png)
