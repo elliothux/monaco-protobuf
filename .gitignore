@@ -58,3 +58,8 @@ typings/
 .env
 
 .idea
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/monaco-proto-lint.iml
+.idea/workspace.xml
+.idea/vcs.xml
